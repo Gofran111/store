@@ -1,0 +1,1 @@
+<a href="{{ asset('files/example.pdf') }}">رابط الملف</a>
